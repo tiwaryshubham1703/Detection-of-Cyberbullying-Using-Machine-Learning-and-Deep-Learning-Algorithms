@@ -1,0 +1,5 @@
+Detection of Cyberbullying Using Machine Learning and Deep Learning Algorithms. 
+
+Algorithm / Model Used: LSTM architecture.
+
+Accuracy: 0.95.
